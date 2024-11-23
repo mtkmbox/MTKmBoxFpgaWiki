@@ -9,7 +9,7 @@ export default defineConfig({
   title: "MTKMBOX",
   description: "MTKMBOX-FPGA开发板使用指南",
   lang: 'zh-CN',
-
+  base:'/docs/',
   locales: {
     root: {
       label: '简体中文',
