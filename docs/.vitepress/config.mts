@@ -36,7 +36,7 @@ export default defineConfig({
         footer: {
             message: "Released under the MIT License.",
             // 自动更新时间
-            copyright: `Copyright © 2023-${new Date().getFullYear()} 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">京****号</a>`,
+            copyright: `Copyright © 2023-${new Date().getFullYear()} 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">京号</a>`,
         },
         //侧边栏文字更改(移动端)
         sidebarMenuLabel: "目录", // 默认值是 'Menu'
