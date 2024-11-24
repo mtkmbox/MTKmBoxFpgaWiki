@@ -116,4 +116,10 @@ export default defineConfig({
             }),
         ],
     },
+    markdown: {
+        image: {
+            // 默认禁用图片懒加载
+            lazyLoading: true,
+        },
+    },
 });
