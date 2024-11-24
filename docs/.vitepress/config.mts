@@ -20,7 +20,7 @@ export default defineConfig({
             link: "/en/",
         },
     },
-
+    base: "/docs/",
     appearance: "dark",
 
     themeConfig: {
