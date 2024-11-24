@@ -20,11 +20,12 @@ export default defineConfig({
         },
     },
     appearance: "dark",
-
+    //fav图标
+    head: [["link", { rel: "icon", href: "./favicon.ico" }]],
     themeConfig: {
         // https://vitepress.dev/reference/default-theme-config
         nav,
-
+        logo: "https://i.postimg.cc/HLX0D9M0/Logo.png",
         //本地搜索
         search: {
             provider: "local",
@@ -34,7 +35,8 @@ export default defineConfig({
         footer: {
             message: "Released under the MIT License.",
             // 自动更新时间
-            copyright: `Copyright © 2023-${new Date().getFullYear()} 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">京号</a>`,
+            copyright: `Copyright © 2023-${new Date().getFullYear()} `,
+            // 备案号：<a href="https://beian.miit.gov.cn/" target="_blank">京号</a>
         },
         //侧边栏文字更改(移动端)
         sidebarMenuLabel: "目录", // 默认值是 'Menu'

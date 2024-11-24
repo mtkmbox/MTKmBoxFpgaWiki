@@ -8,7 +8,7 @@ hero:
   tagline: 更安全的硬件解决方案
 
   image:
-    src: /src/img/home-icon.png
+    src: 'https://i.postimg.cc/hPZ19jgm/home-icon.png'
     alt: 背景图
 
   actions:
