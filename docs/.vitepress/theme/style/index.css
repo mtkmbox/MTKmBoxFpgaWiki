@@ -1,13 +1,13 @@
 /* index.css */
-@import './var.css';
-@import './rainbow.css';
+@import "./var.css";
+@import "./rainbow.css";
 /* .vitepress/theme/style/index.css */
-@import './blockquote.css';
+@import "./blockquote.css";
 
-@import './custom-block.css';
+@import "./custom-block.css";
 
-@import './blur.css';
+@import "./blur.css";
 
-@import './hidden.css';
-@import './vp-code.css';
-@import './vp-code-group.css';
+@import "./hidden.css";
+@import "./vp-code.css";
+@import "./vp-code-group.css";

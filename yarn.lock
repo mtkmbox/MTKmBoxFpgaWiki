@@ -849,6 +849,11 @@ mdast-util-to-hast@^13.0.0:
     unist-util-visit "^5.0.0"
     vfile "^6.0.0"
 
+medium-zoom@^1.1.0:
+  version "1.1.0"
+  resolved "https://mirrors.tencent.com/npm/medium-zoom/-/medium-zoom-1.1.0.tgz#6efb6bbda861a02064ee71a2617a8dc4381ecc71"
+  integrity sha512-ewyDsp7k4InCUp3jRmwHBRFGyjBimKps/AJLjRSox+2q/2H4p/PNpQf+pwONWlJiOudkBXtbdmVbFjqyybfTmQ==
+
 micromark-util-character@^2.0.0:
   version "2.1.1"
   resolved "https://mirrors.tencent.com/npm/micromark-util-character/-/micromark-util-character-2.1.1.tgz#2f987831a40d4c510ac261e89852c4e9703ccda6"
@@ -1101,6 +1106,11 @@ vite@^5.4.10:
     rollup "^4.20.0"
   optionalDependencies:
     fsevents "~2.3.3"
+
+vitepress-protect-plugin@^1.0.6:
+  version "1.0.6"
+  resolved "https://mirrors.tencent.com/npm/vitepress-protect-plugin/-/vitepress-protect-plugin-1.0.6.tgz#4c6fbe3562db88e3810e9331ada88bb724de597e"
+  integrity sha512-4gO5NYNrAaD99+/5Qp/QPURTZC2MZ6UMl/gnxfBAIRasxw6r/mdjcluUNLxEFT8WUMX19KgGu4SSLFcKwfeBtQ==
 
 vitepress@^1.5.0:
   version "1.5.0"
